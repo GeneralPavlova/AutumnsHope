@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-05-30T17:14:02.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.125" etag="_-6ZOnZsHroB8EKeottM" version="13.1.9" type="github"><diagram id="3xTcBRRd2haKhJGFG5FI" name="Page-1">tZXfb5swEID/Gh4jgSEue2xp11VrO2152LODD7BqOGYcIPvrdwQTQtJKndRKPNjfnX+dP8ALk7K/N6IunlCC9pgvey+89RgLIsa84fHlfiRXPBpBbpR0STPYqL/goO/oTkloFokWUVtVL2GKVQWpXTBhDHbLtAz1ctVa5HABNqnQl/S3krYYabz2Z/4NVF5MKwe+i5RiSnagKYTE7gSFd16YGEQ7tso+AT0Ub6rLOO7rG9HjxgxU9j0DnuPsxxOLV3zVoZ/+6n+2j99XbpZW6J07cIIGiDxiiiVahZXHuKYFbraGWvnQmkiGtDIdzO5dtfifHU6BVXO4y2tKiOt+jp1PoiZwLVtRpSDPFvc3+8ZCOaXT+dT5FMTGrUyYLXbFqA6kC3VuukJZ2NQiHSIdGUussKWmXkDN3AipqJwJajSHsWGWyS+cD2dSWi94xtKUeGMNvsBJRPItX/PjPlowFvo37yw4mkCvEGAJ1uwpxQ1gkZPHvT3B5F03uxhwx4oTD2PHhNM/P049G0INJ8l/CMMuhHkWrcrFq5d1qUxTi+rjlHmoVgXumsHXh6qlmuKheO8yZtzJJxhzBYKDf2mMFBBnrxrD0xi22ccYE62XxkT+5xlD3fnzdYid/ATCu38=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-30T17:22:56.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.125" etag="QOb5QVUD-INfLqfEO-SN" version="13.1.9" type="github">
+  <diagram id="3xTcBRRd2haKhJGFG5FI" name="Page-1">
+    <mxGraphModel dx="1185" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N8fOM28-6-wo0cRxQvLK-1" target="0HQkJESwMkDg56A1Qlfi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N8fOM28-6-wo0cRxQvLK-1" target="0HQkJESwMkDg56A1Qlfi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N8fOM28-6-wo0cRxQvLK-1" target="0HQkJESwMkDg56A1Qlfi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N8fOM28-6-wo0cRxQvLK-1" target="0HQkJESwMkDg56A1Qlfi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N8fOM28-6-wo0cRxQvLK-1" target="N8fOM28-6-wo0cRxQvLK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N8fOM28-6-wo0cRxQvLK-1" value="Core Locomotion&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;i&gt;Advanced Locomotion System&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="520" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N8fOM28-6-wo0cRxQvLK-2" value="Navigation System&lt;br&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;i&gt;Sub Branches&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="720" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-1" value="Inventory System&lt;br&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;i&gt;Sub Branches&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-2" value="World Navigation System&lt;br&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;i&gt;Sub Branches&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-3" value="Equipment System&lt;br&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;i&gt;Sub Branches&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HQkJESwMkDg56A1Qlfi-4" value="Player Management System&lt;br&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;i&gt;Sub Branches&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="920" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
